@@ -1,4 +1,5 @@
 # Battery Arbitrage
+By: Efosa Osazuwa
 ## Use Colab
 
 <a href="https://colab.research.google.com/drive/1zZWuUgP-zF0yl_ySi4abJbjNTEEID0rm?usp=sharing"><img align="left" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" title="Open in Google Colaboratory"></a>  
